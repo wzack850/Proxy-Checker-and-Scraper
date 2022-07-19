@@ -13,4 +13,4 @@ USAGE (WINDOWS VERY HIGHLY RECOMMENDED)
 REQUIREMENTS
 ------------------------------------------
 1. requests
-2. beautiful soup
+2. bs4
